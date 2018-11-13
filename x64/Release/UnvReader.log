@@ -1,0 +1,9 @@
+﻿  DGAuxUltilitiesLib.cpp
+  DGMessagesLib.cpp
+  Unv2DReader.cpp
+  Unv2DReaderLib.cpp
+d:\working\code c++ for fun\dgproject\unvreader\unvreader\unv2dreaderlib.cpp(56): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  All 393 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  UnvReader.vcxproj -> D:\Working\Code C++ for fun\DGProject\DG2DSolver\x64\Release\UnvReader.exe

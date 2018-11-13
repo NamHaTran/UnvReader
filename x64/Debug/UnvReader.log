@@ -1,0 +1,7 @@
+﻿  DGAuxUltilitiesLib.cpp
+  DGMessagesLib.cpp
+  Unv2DReader.cpp
+  Unv2DReaderLib.cpp
+d:\working\code c++ for fun\dgproject\unvreader\unvreader\unv2dreaderlib.cpp(56): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  UnvReader.vcxproj -> D:\Working\Code C++ for fun\DGProject\DG2DSolver\x64\Debug\UnvReader.exe

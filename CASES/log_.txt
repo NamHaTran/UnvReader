@@ -1,0 +1,10 @@
+log was created at time
+Cannot open file <SubmitCase.txt> located at C:\Users\NAM TRAN Ha\Google Drive\Code C++ for fun\DGPro
+log was created at time
+Cannot open file <SubmitCase.txt> located at C:\Users\NAM TRAN Ha\Google Drive\Code C++ for fun\DGPro\CASES\SubmitCase.txt
+log was created at time
+Cannot open file <SubmitCase.txt> located at C:\Users\NAM TRAN Ha\Google Drive\Code C++ for fun\DGProje\CASES\SubmitCase.txt
+log was created at time
+Cannot open file <SubmitCase.txt> located at C:\Users\NAM TRAN Ha\Google Drive\Code C++ for fun\DGProjec\CASES\SubmitCase.txt
+log was created at time
+Cannot open file <SubmitCase.txt> located at C:\Users\NAM TRAN Ha\Google Drive\Code C++ for fun\DGProject\CASES\SubmitCase.txt

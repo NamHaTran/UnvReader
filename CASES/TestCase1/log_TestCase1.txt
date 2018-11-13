@@ -1,0 +1,10 @@
+log was created at Sun May 13 12:40:09 2018
+Boundary condition <noSlip> of file U is not valid for type <patch>
+ 
+log was created at Tue May 15 21:51:08 2018
+Boundary condition <noSlip> of file U is not valid for type <patch>
+ 
+log was created at time
+Cannot open file <Points.txt> located at C:\Users\NAM TRAN Ha\Google Drive\Code C++ for fun\DGProject\DG2DSolver\DG2DSolver\CASES\TestCase1
+log was created at time
+Cannot open file <C:\Users\NAM TRAN Ha\Google Drive\Code C++ for fun\DGProject\UnvReader\UnvReader\CASES\TestCase1\hh> located at C:\Users\NAM TRAN Ha\Google Drive\Code C++ for fun\DGProject\UnvReader\UnvReader\CASES\TestCase1
